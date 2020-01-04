@@ -4,7 +4,7 @@
 	<?php
 	include_once 'includes/links.php';
 	?>
-	<link rel="stylesheet" type="text/css" href="style/style.css">
+	<link rel="stylesheet" type="text/css" href="style/index.css">
 </head>
 <body>
 <?php
@@ -52,7 +52,8 @@ include_once 'includes/header.php';
    
    </section>
 
-
+<br>
+<br>
   <div class="container text-center">    
   	<div class="title-box">
 			<h2>Categories </h2>

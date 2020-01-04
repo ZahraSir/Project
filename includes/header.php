@@ -9,7 +9,7 @@
 
    <div class="menu-bar">
    	<ul>
-   		<li><a href="#">Registre</a> </li>
+   		<li><a href="#">Acceuil</a> </li>
    		<li><a href="connexion/seconnecter.php"> Connexion</a></li>
    		<li><a href="connexion/inscription.php"> Inscription</a></li>
    		<li><a href="#"> <i class="fa fa-shopping-basket" ></i>Panier</a> </li>
