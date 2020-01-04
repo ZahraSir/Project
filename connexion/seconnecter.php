@@ -60,7 +60,8 @@
 	   Vous n'avez pas de compte?<a href="inscription.php" style="color: gold" >&nbsp;S'inscrire</a>
 		</form>
 	</div>
-<section class="footer">
+
+	<section class="footer">
 	<div class="container text-center">
 		<div class="row">
 			<div class="col-md-3">

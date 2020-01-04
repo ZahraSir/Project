@@ -20,7 +20,7 @@ include_once 'includes/header.php';
    		<div id="slider" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/img1.jpg"   class="d-block w-100" width="950" height="650">
+      <img src="images/index.jpg"   class="d-block w-100" width="950" height="650">
     </div>
     <div class="carousel-item">
       <img src="images/img16.jpg" class="d-block w-100" width="950" height="650">
@@ -29,7 +29,7 @@ include_once 'includes/header.php';
       <img src="images/boxing.jpg" class="d-block w-100" width="950" height="650">
     </div>
     <div class="carousel-item">
-      <img src="images/fitnesse.jpg" class="d-block w-100"  width="950" height="650">
+      <img src="images/img13.jpg" class="d-block w-100"  width="950" height="650">
     </div>
      <div class="carousel-item">
       <img src="images/golf.jpg" class="d-block w-100"  width="950" height="650">
